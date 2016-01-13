@@ -1,0 +1,16 @@
+{
+  "name": "jreactor",
+  "version": "1.0.0",
+  "description": "jQuery jreactor plugin",
+  "main": "dist/jquery.jreactor.js",
+  "author": "Rivasense Team",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "components"
+  ],
+  "dependencies": {
+    "jquery": ">1.8.2"
+  },
+  "license": "BSD-2-Clause"
+}
